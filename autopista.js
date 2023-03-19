@@ -36,14 +36,18 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#6fab26",
+        "marker-size": "medium"
+      },
       "geometry": {
         "coordinates": [
           -58.35120776352518,
           -34.646573523543815
         ],
         "type": "Point"
-      }
+      },
+      "id": 3
     },
     {
       "type": "Feature",
@@ -69,14 +73,18 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "marker-color": "#7d198a",
+        "marker-size": "medium"
+      },
       "geometry": {
         "coordinates": [
           -58.352653177500926,
           -34.65030290611947
         ],
         "type": "Point"
-      }
+      },
+      "id": 6
     },
     {
       "type": "Feature",
